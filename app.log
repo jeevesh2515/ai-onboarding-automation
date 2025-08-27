@@ -1,0 +1,4 @@
+ERROR:root:CompanyDataScraper error: Invalid URL provided.
+ERROR:root:Unexpected error in ProjectEstimator: 'ProjectEstimator' object has no attribute '_calculate_total_cost'
+
+
